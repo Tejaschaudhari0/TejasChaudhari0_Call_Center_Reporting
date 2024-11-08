@@ -17,6 +17,10 @@ Analyzed employee performance data and key performance indicators (KPIs) such as
   ![Call_Center_PWC_Project](https://github.com/user-attachments/assets/cfa0e274-d939-4f20-b208-2511eefd800e)
 
 ## Project Insights :-
+- Operational Efficiency: Identified call patterns and optimized staffing schedules to reduce average wait times and improve call handling speed.
+- Customer Satisfaction: Correlated customer satisfaction with various metrics, which helped improve the overall satisfaction score by focusing on key areas.
+- Call Abandonment Reduction: Reduced call abandonment rates by recommending strategic staffing during peak hours.
+- Agent Performance Optimization: Developed a performance quadrant for agents, highlighting top performers and identifying improvement areas for others, focusing on handle time and number of calls answered.
 
  
 
