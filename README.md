@@ -11,3 +11,8 @@
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+
+  ## DashBoard
+  ![Call_Center_PWC_Project](https://github.com/user-attachments/assets/cfa0e274-d939-4f20-b208-2511eefd800e)
+
